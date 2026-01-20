@@ -8,4 +8,3 @@ Mängida võib mitu inimest, programmi alguses küsitakse inimeste nimesid.
 Täringut imiteeritakse kolmemõõtmelisena."""
 
 def ex9():
-    
